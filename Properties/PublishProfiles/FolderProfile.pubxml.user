@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Siyamthanda\Desktop\New folder</_PublishTargetUrl>
+    <History>True|2023-09-01T15:05:03.1660615Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="PHCApplicationDbContextConnection">
+      <Value>Server=SICT-SQL.MANDELA.AC.ZA%3bDatabase=GRP-03-18-eNompiloDB%3bIntegrated Security=False%3b User Id=GRP-03-18%3bPassword=grp-03-18-soit2023#%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="PHCApplication.Data.PHCApplicationDbContext">
+      <Value>Server=SICT-SQL.MANDELA.AC.ZA%3bDatabase=GRP-03-18-eNompiloDB%3bIntegrated Security=False%3b User Id=GRP-03-18%3bPassword=grp-03-18-soit2023#%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
